@@ -172,7 +172,7 @@ form div #full_name, #email,
     border-radius: 10px;
 }
 
-form div #text_area{
+form div #message{
     border-radius: 10px;
     resize: none;
 }
