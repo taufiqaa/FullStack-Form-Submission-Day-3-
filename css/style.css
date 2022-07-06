@@ -86,8 +86,12 @@ nav .right_side a{
     height: 30px;
     border-radius: 12px;
     background-color: navy;
-    color: white;
     cursor: pointer;
+}
+
+.container .left_container .contact a{
+    color: white;
+    text-decoration: none;
 }
 
 .container .left_container h5,
